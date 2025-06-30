@@ -1,0 +1,16 @@
+{
+    "achievements": [
+        {
+            "id": "achievement_1",
+            "name": "First Achievement",
+            "description": "Complete your first task.",
+            "isCompleted": true
+        },
+        {
+            "id": "achievement_2",
+            "name": "Second Achievement",
+            "description": "Complete another task.",
+            "isCompleted": false
+        }
+    ]
+}
